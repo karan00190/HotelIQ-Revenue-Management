@@ -48,25 +48,25 @@ web technologies to provide actionable insights for optimizing pricing and occup
 ##  Key Features
 
 ### Implemented
-- ✅ Complete database schema (Hotels, Rooms, Bookings, Metrics)
-- ✅ RESTful API with FastAPI
-- ✅ Data validation with Pydantic
-- ✅ Database migrations
-- ✅ Auto-generated API documentation
+-  Complete database schema (Hotels, Rooms, Bookings, Metrics)
+-  RESTful API with FastAPI
+-  Data validation with Pydantic
+-  Database migrations
+-  Auto-generated API documentation
 
 ### In Progress
-- 🚧 Data ingestion pipeline (CSV, API, streaming)
-- 🚧 ETL workflows with feature engineering
-- 🚧 LangChain-powered chatbot
-- 🚧 Demand forecasting module
-- 🚧 Next.js dashboard
+-  Data ingestion pipeline (CSV, API, streaming)
+-  ETL workflows with feature engineering
+-  LangChain-powered chatbot
+-  Demand forecasting module
+-  Next.js dashboard
 
 ### Planned
-- 📋 Dynamic pricing recommendations
-- 📋 Competitor analysis integration
-- 📋 Real-time monitoring dashboard
+- Dynamic pricing recommendations
+- Competitor analysis integration
+- Real-time monitoring dashboard
 
-## 🚀 Quick Start
+## Quick Start
 ```bash
 # Clone repository
 git clone https://github.com/karan00190/HotelIQ-Revenue-Management.git
@@ -102,16 +102,10 @@ Visit: http://localhost:8000/docs for API documentation
 ##  Developer
 
 **Karan Katte**  
-MCA Student | Full-Stack Developer  
-[LinkedIn](https://www.linkedin.com/in/karan-katte-4a19261b9/) | 
-[GitHub](https://github.com/karan00190)
 
-##  License
 
-MIT License - feel free to use for learning and reference
 
----
 
 **Note:** This project demonstrates full-stack development capabilities with 
 focus on revenue management domain, data engineering, and AI integration.
-```
+
