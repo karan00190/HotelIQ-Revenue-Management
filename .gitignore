@@ -1,0 +1,22 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# ---- Virtual Environments ----
+venv/
+.venv/
+env/
+ENV/
+
+# ---- Environment / Secrets ----
+.env
+*.env
+
+# ---- Databases ----
+*.db
+*.sqlite3
+
+# ---- VS Code ----
+.vscode/
