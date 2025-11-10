@@ -5,7 +5,7 @@ from app.database.connection import get_db
 from app.services.data_generator import generate_all_data
 
 # Import routers
-from app.api import hotels, rooms, bookings, analytics
+from app.api import hotels, rooms, bookings, analytics, ingestion  # ← ADD ingestion
 
 import uvicorn
 
@@ -62,6 +62,7 @@ app.include_router(hotels.router)
 app.include_router(rooms.router)
 app.include_router(bookings.router)
 app.include_router(analytics.router)
+app.include_router(ingestion.router)  # ← ADD THIS
 
 if __name__ == "__main__":
     uvicorn.run("app.main:app", host="0.0.0.0", port=8000, reload=True)

@@ -1,0 +1,6 @@
+hotel_id,room_id,check_in_date,check_out_date,guest_name,guest_email,num_guests,booking_price,base_price,booking_source,status
+1,1,2025-11-15,2025-11-18,Rajesh Kumar,rajesh@example.com,2,15000,16000,website,confirmed
+1,2,2025-11-16,2025-11-20,Priya Singh,priya@example.com,2,20000,21000,booking.com,confirmed
+2,15,2025-11-17,2025-11-19,Amit Patel,amit@example.com,1,8000,9000,direct,confirmed
+2,16,2025-11-18,2025-11-22,Neha Sharma,neha@example.com,3,18000,20000,makemytrip,confirmed
+3,30,2025-11-20,2025-11-23,Vikram Reddy,vikram@example.com,2,12000,13000,expedia,confirmed
